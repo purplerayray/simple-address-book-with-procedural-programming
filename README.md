@@ -1,6 +1,6 @@
 # Address Book
 
-![Project Image](address book.png)
+![Project Image](address-book.png)
 
 > A simple address book written in procedural Python programming
 
